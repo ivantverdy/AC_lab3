@@ -1,0 +1,3 @@
+C:/proga/AC_Lab3/cmake-build-debug/CMakeFiles/AC_Lab3.dir
+C:/proga/AC_Lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/proga/AC_Lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
